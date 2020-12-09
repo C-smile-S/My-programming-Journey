@@ -1,0 +1,13 @@
+h1{
+	text-align: center;
+	padding-bottom: auto;
+	margin-bottom: auto;
+}
+
+.newDiv,.secondDiv{
+background-color: aqua;
+margin: auto;
+height: auto;
+width: auto;
+
+}

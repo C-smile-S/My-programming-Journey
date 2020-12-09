@@ -1,0 +1,16 @@
+Now for bootstrap responsiveness, pay attention to the following
+
+
+> .col-(extra small 		devices - screen width less than 576px)
+
+> .col-sm- (small devices- screen width equal to or greater 576px)
+
+>	.col-md- (medium devices - screen width equal to o greater than 768px)
+
+> .col-lg- (large devices - screen width equal to or greater than 992px)
+
+>	.col-xl- (xlarge devices - screen width equal to or greater than 1200px )
+
+
+so the code is being used as a value of an attribute how the code is being used goes as such
+<div class="col-md-6"></div>   though i am not sure if ig can only be used on class or some other attribute and also the "6" represents the number ofg grid we have which is 12 BTW
